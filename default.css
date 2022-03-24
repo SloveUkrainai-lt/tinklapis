@@ -20,12 +20,7 @@ body {
   height: 95vh;
 }
 
-.showcase img {
-  height: 20vh;
-  /* -webkit-filter: drop-shadow(5px 5px 5px rgba(17, 24, 20, .21));
-    filter: drop-shadow(5px 5px 5px rgba(17, 24, 20, .21)); */
-  animation: float 6s ease-in-out infinite;
-}
+
 
 .showcase h1 {
   font-weight: 900;
